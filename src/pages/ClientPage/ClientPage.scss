@@ -1,0 +1,48 @@
+.client-page__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .buttons__container {
+    margin: 1rem;
+
+    & > * {
+        margin: 0 1rem;
+    }
+  }
+
+  .client__container {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    min-height: 100vh;
+    gap: 10%;
+    margin: auto;
+
+    .img__container {
+      width: 30%;
+      height: 300px;
+
+      img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        box-shadow: 4px 4px 10px 10px rgba(255, 255, 255, 0.2);
+      }
+    }
+
+    .data__container {
+      width: 60%;
+
+      .address {
+        display: flex;
+        justify-content: space-around;
+      }
+
+      h1,
+      h2 {
+        text-align: center;
+      }
+    }
+  }
+}

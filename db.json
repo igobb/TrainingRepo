@@ -1,0 +1,145 @@
+{
+  "clients": [
+    {
+      "name": "AlojzyAleEdytowany",
+      "surname": "Lojzy",
+      "city": "Warszawa",
+      "region": "Mazowieckie",
+      "phoneNumber": "+48222222222",
+      "postCode": "32-329",
+      "street": "Krótka",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "id": "2"
+    },
+    {
+      "name": "Łatwy",
+      "surname": "Numer",
+      "city": "Warszawa",
+      "region": "Mazowieckie",
+      "phoneNumber": "+48222222222",
+      "postCode": "32-329",
+      "street": "Krótka",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "id": "222222"
+    },
+    {
+      "name": "Tomasz",
+      "surname": "Gołąb",
+      "city": "Krakówrakow",
+      "region": "Tarnowski",
+      "phoneNumber": "+48999888777",
+      "postCode": "33-113",
+      "street": "Tarnowska",
+      "imgSrc": "https://images.unsplash.com/photo-1678680080955-6d527685095f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "id": "XNKSYBS"
+    },
+    {
+      "name": "User",
+      "surname": "Testowy",
+      "city": "Testowo",
+      "region": "Regionowo",
+      "phoneNumber": "+11222333444",
+      "postCode": "11-222",
+      "street": "Niby uliczna",
+      "imgSrc": "",
+      "id": "mDtZlKZ"
+    },
+    {
+      "name": "Tomasz",
+      "surname": "Gołab",
+      "city": "Tarnów",
+      "region": "Tarnowski",
+      "phoneNumber": "+48111222333",
+      "postCode": "33-100",
+      "street": "Tarnowska",
+      "imgSrc": "",
+      "id": "zEBgiMS"
+    }
+  ],
+  "orders": [
+    {
+      "id": "2",
+      "phoneNumber": "+48667776887",
+      "quantity": 2,
+      "orderTitle": "bułki",
+      "orderContent": "dwie bułki z makiem"
+    },
+    {
+      "phoneNumber": "+48222222222",
+      "quantity": "12",
+      "orderTitle": "Title",
+      "orderContent": "Essasito Srito",
+      "id": "e_wzxfv"
+    },
+    {
+      "phoneNumber": "+48222222222",
+      "quantity": "12",
+      "orderTitle": "Title",
+      "orderContent": "Essasito Srito",
+      "id": "m_jeB3c"
+    },
+    {
+      "phoneNumber": "+48999888777",
+      "quantity": "5",
+      "orderTitle": "Bread",
+      "orderContent": "Some świeży bread",
+      "id": "S1vAGWX"
+    },
+    {
+      "phoneNumber": "+48111111111",
+      "quantity": "12",
+      "orderTitle": "Title",
+      "orderContent": "Essasito Srito",
+      "id": "DZvgGwb"
+    },
+    {
+      "phoneNumber": "+11222333444",
+      "quantity": "5",
+      "orderTitle": "Title",
+      "orderContent": "Essasito Srito",
+      "id": "v9eTERE"
+    },
+    {
+      "phoneNumber": "0048222222222",
+      "quantity": "5",
+      "orderTitle": "Title",
+      "orderContent": "A lot of good stuff",
+      "id": "vDvBtKq"
+    },
+    {
+      "phoneNumber": "+48999888777",
+      "quantity": "3",
+      "orderTitle": "SomeTitle",
+      "orderContent": "SomeVeryContent",
+      "id": "pSgeCEM"
+    },
+    {
+      "phoneNumber": "+48999888777",
+      "quantity": "4",
+      "orderTitle": "SomeTitle1",
+      "orderContent": "Some świeży bread2",
+      "id": "Gkb_s1R"
+    },
+    {
+      "phoneNumber": "+11222333444",
+      "quantity": "12",
+      "orderTitle": "SomeTitle",
+      "orderContent": "A lot of good stuff",
+      "id": "Mrv-CN-"
+    },
+    {
+      "phoneNumber": "+48111222333",
+      "quantity": "5",
+      "orderTitle": "Title",
+      "orderContent": "dfdfdfdsdsd",
+      "id": "sV0hi1d"
+    },
+    {
+      "phoneNumber": "+48222222222",
+      "quantity": "2",
+      "orderTitle": "Czyzadzialabezid",
+      "orderContent": "Bez id dziala>?",
+      "id": "dQL_GFl"
+    }
+  ]
+}
